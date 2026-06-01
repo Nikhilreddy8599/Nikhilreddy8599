@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Nikhil Reddy! 👋
 
-<!--
-**Nikhilreddy8599/Nikhilreddy8599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Time Learner 
+Welcome to my GitHub profile! I'm currently focusing on building skills and sharpening my software engineering skills.
 
-Here are some ideas to get you started:
+- 💻 **Tech Stack:** Java, Git, Github
+- 📍 **Location:** Hyderabad, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Connect with me:
+- **Email:** buzunoomikhil123@gmail.com
+- **LinkedIn:** [Nikhil Reddy Buzunoor](https://linkedin.com/in/nikhilredbybuzunoor)
