@@ -3,7 +3,6 @@
 ### 🚀 Full-Time Learner 
 Welcome to my GitHub profile! I'm currently focusing on building skills and sharpening my software engineering skills.
 
-- 💻 **Tech Stack:** Java, Git, Github
 - 📍 **Location:** Hyderabad, India
 
 ---
